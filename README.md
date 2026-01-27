@@ -1,3 +1,6 @@
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/5544f788-f194-42f1-a810-0be95ef4ecdc" />
+
+
 # 🛡️ FaceBook Report Bot v2.0
 
 **FB-Terminator** is a high-performance, multi-threaded Python automation tool designed to submit integrity reports to Facebook's support forms. It features intelligent proxy rotation, randomized User-Agent fingerprinting, and multiple reporting vectors.
